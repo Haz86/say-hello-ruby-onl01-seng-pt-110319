@@ -4,4 +4,4 @@ def say_hello(name,name2)
   
   end
 
-say_hello("Gabriela","Ruby Programmer")
+say_hello("Ruby Programmer")
